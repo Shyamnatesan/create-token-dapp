@@ -1,0 +1,1 @@
+/home/shyam/projects/smart-contracts/create-token-app/anchor/target/sbpf-solana-solana/release/create_token.so: /home/shyam/projects/smart-contracts/create-token-app/anchor/programs/create_token/src/lib.rs

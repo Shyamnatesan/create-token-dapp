@@ -1,0 +1,10 @@
+/home/shyam/projects/smart-contracts/create-token-app/anchor/target/sbpf-solana-solana/release/deps/libsolana_instruction-5f5c284749e8a995.rmeta: /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/lib.rs /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/account_meta.rs /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/error.rs /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/syscalls.rs
+
+/home/shyam/projects/smart-contracts/create-token-app/anchor/target/sbpf-solana-solana/release/deps/libsolana_instruction-5f5c284749e8a995.rlib: /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/lib.rs /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/account_meta.rs /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/error.rs /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/syscalls.rs
+
+/home/shyam/projects/smart-contracts/create-token-app/anchor/target/sbpf-solana-solana/release/deps/solana_instruction-5f5c284749e8a995.d: /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/lib.rs /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/account_meta.rs /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/error.rs /home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/syscalls.rs
+
+/home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/lib.rs:
+/home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/account_meta.rs:
+/home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/error.rs:
+/home/shyam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.2.1/src/syscalls.rs:
